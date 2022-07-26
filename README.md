@@ -1,5 +1,6 @@
 ## Project description (Embedded Systems Course, assignment):
 ### Electronic coffee maker
+<br />
 1. The system must have a character display to view and adjust the parameters of the form.
 <br />
 2. This machine contains 4 types of coffee:
